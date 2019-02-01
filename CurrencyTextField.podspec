@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name         = 'WMCurrencyTextField'
+s.name         = 'CurrencyTextField'
 s.version      = '1.0.2'
 s.summary      = 'Price TextField input control, default number formatter is en_US@currency=USD'
 s.homepage     = 'https://github.com/cloudhm/CurrencyTextField'
